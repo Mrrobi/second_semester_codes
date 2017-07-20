@@ -3,7 +3,7 @@
 
 ### Operator_1
 
-```
+```markdown
 1.Program that will take two numbers X and Y as inputs, then calculate and print the values of their addition, subtraction, multiplication, division (quotient and reminder). 
 
 Sample input (X,Y)	Sample output
