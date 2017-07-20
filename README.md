@@ -22,8 +22,6 @@ Sample input (X,Y)	Sample output
 # Main Code
 
 ```markdown
-Syntax highlighted code block
-
 //Written By Robiuddin Robi
 #include<stdio.h>
 #include<conio.h>
@@ -47,8 +45,6 @@ int main(){
 	getch();
 }
 ```
-
-For raw file [`operator_1.c`](https://github.com/Mrrobi/second_semester_operators/blob/master/operator_1.c).
 ###Operator_2
 ```markdown
 Program that will calculate the area of a circle having radius r. 
