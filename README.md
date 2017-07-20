@@ -48,7 +48,7 @@ int main(){
 }
 ```
 
-For more details see [`operator_1.c`](https://github.com/Mrrobi/second_semester_operators/blob/master/operator_1.c).
+For raw file [`operator_1.c`](https://github.com/Mrrobi/second_semester_operators/blob/master/operator_1.c).
 
 ### MD Robiuddin Robi
 
